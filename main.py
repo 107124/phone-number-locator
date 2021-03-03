@@ -7,6 +7,7 @@ from phonenumbers import carrier
 
 from phonenumbers import geocoder, timezone
 
+# when i demonstrate, use the '555' number to show that invalid will = False
 number = number_one
 
 # C for country and H for history
